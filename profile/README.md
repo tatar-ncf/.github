@@ -24,6 +24,17 @@
 
 > Милләтем данлыклы, халкым юмарт, коды ирекле!
 
+### Стек / The stack
+
+```
+   🐧 TatarOS (ОС)  →  🐘 Tatarnetes (оркестратор)  →  🖥 Tatarnetes UI (панель)
+      Talos'ка бәйле      Kubernetes'ка бәйле            Dashboard'ка бәйле
+```
+
+TatarOS системаны күтәрә һәм Татарнетес бирә; Татарнетес контейнерларны
+оркестрлый; UI аларны күзәтә. / TatarOS boots and provisions Tatarnetes;
+Tatarnetes orchestrates; the UI observes.
+
 ### Проектлар
 
 | Проект | Ни ул |
